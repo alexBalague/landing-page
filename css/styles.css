@@ -1,0 +1,65 @@
+.card{
+    padding: 5px;
+}
+
+.rounded-img{
+    width:150px;
+    height:150px;
+    border-radius:150px;
+}
+
+.form-group{
+    padding: 15px;
+}
+
+.full-img{
+    height: 425px;
+}
+
+.logo-img{
+    width:40px;
+    height:40px;
+    border-radius:150px;
+}
+
+h4{
+    padding-top: 10px;
+}
+
+.m-bot{
+    margin-bottom: 10px;
+}
+
+.profile{
+    width: 100px;
+    height: 100px;
+}
+
+#btn-submit{
+    margin-left: 15px;
+}
+
+.footer{
+    margin-top: 20px;
+    background-color: gray;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cookies{
+    background-color: gray;
+    margin: 0;
+}
+
+.icon{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+@media only screen and (max-width: 1140px){
+    #hidden-element{
+        display: none;
+    }
+}
